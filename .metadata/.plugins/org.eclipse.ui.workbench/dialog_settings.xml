@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/home/wy/git/POSA-14/ex/PingPong/wrong"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="853" key="dialogWidth"/>
+		<item value="480" key="dialogHeight"/>
+		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.preferences"/>
+		</list>
+		<list key="textArray">
+			<item value="log"/>
+			<item value="cat"/>
+			<item value="lo"/>
+			<item value="ddms"/>
+		</list>
+		<list key="orderedElements">
+			<item value="com.android.ide.eclipse.ddms.views.LogCatView"/>
+			<item value="com.android.ide.eclipse.ddms.preferences.PreferencePage"/>
+		</list>
+		<list key="textEntries">
+			<item value="3"/>
+			<item value="1"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="29" key="DIALOG_Y_ORIGIN"/>
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
+		</list>
+	</section>
+</section>

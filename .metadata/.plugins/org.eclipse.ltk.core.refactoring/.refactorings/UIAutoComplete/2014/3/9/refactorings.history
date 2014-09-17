@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extracts string &apos;Country&apos; into R.string.country" description="Extracts string &apos;Country&apos; into R.string.country" file="/UIAutoComplete/res/layout/main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="EDIT_SOURCE" proj="/UIAutoComplete" rplc-all-java="false" rplc-all-xml="false" sel-end="390" sel-start="369" stamp="1393706973846" tok-esc="Country" xml-attr-name="android:text"/>
+</session>
